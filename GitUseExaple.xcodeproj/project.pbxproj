@@ -21,6 +21,7 @@
 		43647C281916B39300157FDC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43647C0A1916B39300157FDC /* UIKit.framework */; };
 		43647C301916B39300157FDC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 43647C2E1916B39300157FDC /* InfoPlist.strings */; };
 		43647C321916B39300157FDC /* GitUseExapleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 43647C311916B39300157FDC /* GitUseExapleTests.m */; };
+		43647C3D1916B79200157FDC /* MapForIternaty.m in Sources */ = {isa = PBXBuildFile; fileRef = 43647C3C1916B79200157FDC /* MapForIternaty.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		43647C2D1916B39300157FDC /* GitUseExapleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitUseExapleTests-Info.plist"; sourceTree = "<group>"; };
 		43647C2F1916B39300157FDC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		43647C311916B39300157FDC /* GitUseExapleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUseExapleTests.m; sourceTree = "<group>"; };
+		43647C3B1916B79200157FDC /* MapForIternaty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForIternaty.h; sourceTree = "<group>"; };
+		43647C3C1916B79200157FDC /* MapForIternaty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForIternaty.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +119,8 @@
 				43647C161916B39300157FDC /* AppDelegate.m */,
 				43647C181916B39300157FDC /* Main.storyboard */,
 				43647C1B1916B39300157FDC /* ViewController.h */,
+				43647C3B1916B79200157FDC /* MapForIternaty.h */,
+				43647C3C1916B79200157FDC /* MapForIternaty.m */,
 				43647C1C1916B39300157FDC /* ViewController.m */,
 				43647C1E1916B39300157FDC /* Images.xcassets */,
 				43647C0D1916B39300157FDC /* Supporting Files */,
@@ -249,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43647C3D1916B79200157FDC /* MapForIternaty.m in Sources */,
 				43647C1D1916B39300157FDC /* ViewController.m in Sources */,
 				43647C171916B39300157FDC /* AppDelegate.m in Sources */,
 				43647C131916B39300157FDC /* main.m in Sources */,
